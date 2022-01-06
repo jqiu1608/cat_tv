@@ -1460,10 +1460,6 @@
       "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="
     },
     {
-      "name": "VIP解析",
-      "url": "https://wds.ecsxs.com/217915.html?url="
-    },
-    {
       "name": "公主影視",
       "type": 1,
       "url": "https://jx.renrenmi.cc/?url="
@@ -1512,18 +1508,6 @@
       "name":"高清解析8",
       "type":0,
       "url":"http://an61.com/jx/vip?v="
-    },
-    {
-      "name": "極品影視",
-      "url": "https://jxapp.jpysvip.net/m3u8.php?url="
-    },
-    {
-      "name": "暮光影視",
-      "url": "https://www.mgtv.com.muguangys.com/jiexi1.php?url="
-    },
-    {
-      "name": "藍光秒開",
-      "url": "http://jiexi.xm1314.top/?url="
     }
   ],
   "flags": [
