@@ -242,6 +242,459 @@
   ],
   "lives": [
     {
+      "group": "Huya(Exo播放器)",
+      "channels": [
+        {
+          "name": "RM+劉在石李光洙跑男",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "韓版大逃脫三季系列",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1199552182083-1199552182083-5395795326957256704-2399104487622-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "【七龍珠改】超級賽亞人孫捂空",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "【Blue胖】你看得到我的腿嗎",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "【貓和老鼠】湯姆和傑瑞的故事",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "貓和老鼠 世界上最好看的動畫片",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1099531768063-1099531768063-86501873997053952-2199063659582-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "【海綿寶寶】黃方塊的爆笑生活~",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "一個會說話的方塊形的黃色海綿",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1099531768059-1099531768059-86501856817184768-2199063659574-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "路飛帶領大家向頂上前進",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "頭文字D·秋名山車神",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "至今沒有那部關於做菜的動漫能超越此片",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1099531768062-1099531768062-86501869702086656-2199063659580-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "蠟筆小新·逗比少年歡樂多",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "搞笑的一家人",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "周星馳",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "成龍",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "劉德華",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "金庸經典劇+24小時輪播",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "douyu(Exo播放器)",
+      "channels": [
+        {
+          "name": "RunningMan",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid="
+          ]
+        },
+        {
+          "name": "【RM-點播】點播！模式-24H歡樂不斷",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv?uuid="
+          ]
+        },
+        {
+          "name": "全新影片",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="
+          ]
+        },
+        {
+          "name": "周星馳",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid="
+          ]
+        },
+        {
+          "name": "華語經典",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid="
+          ]
+        },
+        {
+          "name": "【動漫】超燃懷舊經典",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/1174353rNV9kutoQ.flv?uuid="
+          ]
+        },
+        {
+          "name": "✨動漫✨熱血木葉忍者草帽路飛青春",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid="
+          ]
+        },
+        {
+          "name": "【超級賽亞人】悟吉塔",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7190773rKSoAalxm.flv?uuid="
+          ]
+        },
+        {
+          "name": "【Hunter】動漫熱血老賊冒險",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/6610883rdSnhO6m2.flv?uuid="
+          ]
+        },
+        {
+          "name": "動漫",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7686674rFH7xe5Ay.flv?uuid="
+          ]
+        },
+        {
+          "name": "草帽、海賊團的直播間",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/997925rsBT668jIk.flv?uuid="
+          ]
+        },
+        {
+          "name": "✨✨✨✨✨OK！",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7528160rs3fEUM9F.flv?uuid="
+          ]
+        },
+        {
+          "name": "♥卡面來打♥",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/1218414rr6ZjR26E.flv?uuid="
+          ]
+        },
+        {
+          "name": "【天使點播】動漫直播間",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/1487654rPnN0KiCq.flv?uuid="
+          ]
+        },
+        {
+          "name": "海綿與大星直播間",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/2250349rlW4vTmgr.flv?uuid="
+          ]
+        },
+        {
+          "name": "【柯南】外表看似小孩，智慧卻過於常人",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/6484910rBRo02nhA.flv?uuid="
+          ]
+        },
+        {
+          "name": "成龍 小玉 老爹 釋壓 搞笑",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7066113rWmmNiU1h.flv?uuid="
+          ]
+        },
+        {
+          "name": "【追憶】國語超清動畫電影",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/6449849reAo5WYR5.flv?uuid="
+          ]
+        },
+        {
+          "name": "美味！蟹黃堡",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/8762358rSdwNfk7L.flv?uuid="
+          ]
+        },
+        {
+          "name": "星矢-燃燒吧我的小宇宙",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/8458270rdS7YPlD9.flv?uuid="
+          ]
+        },
+        {
+          "name": "萬年如一柯播南",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/1783144rZI6B9vk0.flv?uuid="
+          ]
+        },
+        {
+          "name": "【遊戲王】我的回合！",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/5100147rodpaDn84.flv?uuid="
+          ]
+        },
+        {
+          "name": "大星與海綿方塊",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/3949681rjFj2u4gy.flv?uuid="
+          ]
+        },
+        {
+          "name": "【神劇】經典神劇",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/3700024rpw4YsCWm.flv?uuid="
+          ]
+        },
+        {
+          "name": "【童年往事】仨房間畫面同步顯示點播",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7256376rUDEqJ0SN.flv?uuid="
+          ]
+        },
+        {
+          "name": "小當家、小埋陪伴大家",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/8231658rRGd8XKKo.flv?uuid="
+          ]
+        },
+        {
+          "name": "一入夏目深似海，來生願作帳中妖",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/10210568ryEIxOFa.flv?uuid="
+          ]
+        },
+        {
+          "name": "少女與半妖",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7422897rqodmTACQ.flv?uuid="
+          ]
+        },
+        {
+          "name": "【星星動畫】童年 熱血 搞笑 愛情",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/4369939rfKqHGxZe.flv?uuid="
+          ]
+        },
+        {
+          "name": "【三笠】根本不存在解不開的迷！",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7050342rGoVnkkl7.flv?uuid="
+          ]
+        },
+        {
+          "name": "【動漫】 24小時不間斷 動漫專場",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7493575rFwYPn0It.flv?uuid="
+          ]
+        },
+        {
+          "name": "【經典懷舊動畫片】輪播",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/7360064rG3xZJuMe.flv?uuid="
+          ]
+        },
+        {
+          "name": "韓國女團",
+          "urls": [
+            "http://dyscdnali1.douyucdn.cn/live/231464r9XzaQ89ir.flv?uuid="
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Bilibili(Exo播放器)",
+      "channels": [
+        {
+          "name": "哆啦A夢新番 24小時連播 藍胖子24小時播放",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=482946"
+          ]
+        },
+        {
+          "name": "【哆啦A夢】舊版全集",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=1717236"
+          ]
+        },
+        {
+          "name": "中華小當家中華一番 FHD-233",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=655291"
+          ]
+        },
+        {
+          "name": "櫻桃小丸子 蠟筆小新 藍光特別版",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=21614203"
+          ]
+        },
+        {
+          "name": "櫻桃小丸子國語台配",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=11765640"
+          ]
+        },
+        {
+          "name": "蠟筆小新24h睡覺背景音",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=11579951"
+          ]
+        },
+        {
+          "name": "經典動漫（推理、童年、靈異）",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=4089143"
+          ]
+        },
+        {
+          "name": "【國語】新版舊版我們這一家24H高清陪伴",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=14901318"
+          ]
+        },
+        {
+          "name": "哆啦A夢新版高清【國語】",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=12811814"
+          ]
+        },
+        {
+          "name": "台配櫻桃小丸子",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=5827128"
+          ]
+        },
+        {
+          "name": "開心漢堡店 怪誕小鎮24h輪播",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=2308015"
+          ]
+        },
+        {
+          "name": "貓和老鼠大電影（24循環播放）",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=22905626"
+          ]
+        },
+        {
+          "name": "童年回憶殺!國語犬夜叉!24h不間斷直播",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=23089518"
+          ]
+        },
+        {
+          "name": "【1080】終極一家 終極三國",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=22587179"
+          ]
+        },
+        {
+          "name": "狄仁傑神探系列輪播",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=8331905"
+          ]
+        },
+        {
+          "name": "【周星馳】喜劇 動作 殭屍 24H",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=47917"
+          ]
+        },
+        {
+          "name": "康熙微服私訪記1—4",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=4153440"
+          ]
+        },
+        {
+          "name": "鐵齒銅牙紀曉嵐 有片頭片尾勿噴",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=22665698"
+          ]
+        },
+        {
+          "name": "新白娘子傳奇。24小時經典輪播",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=5960549"
+          ]
+        },
+        {
+          "name": "雍正王朝九子奪嫡",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=21205932"
+          ]
+        },
+        {
+          "name": "封神演義等懷舊影視輪播",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=23644724"
+          ]
+        },
+        {
+          "name": "鐵齒銅牙紀曉嵐",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=23553622"
+          ]
+        },
+        {
+          "name": "【松鼠精選】動作片專場全明星陣容",
+          "urls": [
+            "http://106.53.212.251/daili/bili.php?id=6827037"
+          ]
+        }
+      ]
+    },
+    {
       "group": "NewTV(ijk播放器)",
       "channels": [
         {
