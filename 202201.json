@@ -242,458 +242,660 @@
   ],
   "lives": [
     {
-      "group": "Huya(Exo播放器)",
+      "group": "有線頻道",
       "channels": [
         {
-          "name": "RM+劉在石李光洙跑男",
+          "name": "民視",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8545/http/60.250.87.135:8081/hls/73/815/ch49.m3u8",
+            "http://125.227.210.55:8093/0.ts",
+            "http://50.7.61.147:30080/Entry/ftv",
+            "rtmp://9hv4.mine.nu/sat/tv051"
           ]
         },
         {
-          "name": "韓版大逃脫三季系列",
+          "name": "CNN新聞",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1199552182083-1199552182083-5395795326957256704-2399104487622-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8546/http/116.50.42.19:8081/hls/68/810/ch29.m3u8",
+            "http://125.227.210.55:10797/VideoInput/play.ts"
           ]
         },
         {
-          "name": "【七龍珠改】超級賽亞人孫捂空",
+          "name": "台視",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8542/http/60.250.87.135:8081/hls/72/814/ch46.m3u8",
+            "http://50.7.61.148:30080/Entry/ttv",
+            "rtmp://9hv4.mine.nu/sat/tv071"
           ]
         },
         {
-          "name": "【Blue胖】你看得到我的腿嗎",
+          "name": "人間衛視",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8561/http/60.250.87.135:8081/hls/69/811/ch36.m3u8"
           ]
         },
         {
-          "name": "【貓和老鼠】湯姆和傑瑞的故事",
+          "name": "中視",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8542/http/60.250.87.135:8081/hls/72/814/ch47.m3u8",
+            "http://50.7.61.148:30080/Entry/ctv",
+            "rtmp://9hv4.mine.nu/sat/tv091"
           ]
         },
         {
-          "name": "貓和老鼠 世界上最好看的動畫片",
+          "name": "大愛",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1099531768063-1099531768063-86501873997053952-2199063659582-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8567/http/60.250.87.135:8081/hls/73/815/ch52.m3u8",
+            "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/daai1.m3u8"
+
           ]
         },
         {
-          "name": "【海綿寶寶】黃方塊的爆笑生活~",
+          "name": "華視",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8544/http/60.250.87.135:8081/hls/72/814/ch48.m3u8",
+            "http://50.7.61.147:30080/Entry/cts",
+            "rtmp://9hv4.mine.nu/sat/tv111"
           ]
         },
         {
-          "name": "一個會說話的方塊形的黃色海綿",
+          "name": "霹靂台灣台",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1099531768059-1099531768059-86501856817184768-2199063659574-10057-A-0-1.m3u8"
+            "http://50.7.61.8:30080/Entry/pili"
           ]
         },
         {
-          "name": "路飛帶領大家向頂上前進",
+          "name": "公視",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8562/http/60.250.87.135:8081/hls/73/815/ch50.m3u8",
+            "http://50.7.61.148:30080/Entry/pub",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/PTS.m3u8"
           ]
         },
         {
-          "name": "頭文字D·秋名山車神",
+          "name": "公視台語",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.m3u8"
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/pts2.m3u8"
           ]
         },
         {
-          "name": "至今沒有那部關於做菜的動漫能超越此片",
+          "name": "好消息",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1099531768062-1099531768062-86501869702086656-2199063659580-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8507/http/60.250.87.135:8081/hls/74/816/ch53.m3u8"
           ]
         },
         {
-          "name": "蠟筆小新·逗比少年歡樂多",
+          "name": "原住民頻道",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8"
+            "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
           ]
         },
         {
-          "name": "搞笑的一家人",
+          "name": "客家電視台",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8"
+            "http://50.7.60.21:30080/Entry/haka"
           ]
         },
         {
-          "name": "周星馳",
+          "name": "國家地理頻道",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8"
+            "http://220.130.10.141:8501/http/60.250.87.135:8081/hls/61/803/ch01.m3u8"
           ]
         },
         {
-          "name": "成龍",
+          "name": "Discovery",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8"
+            "http://220.130.10.141:8500/http/60.250.87.135:8081/hls/71/813/ch44.m3u8"
           ]
         },
         {
-          "name": "劉德華",
+          "name": "旅遊生活頻道",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8503/http/60.250.87.135:8081/hls/70/812/ch38.m3u8",
+            "http://125.227.210.55:19020/VideoInput/play.ts"
           ]
         },
         {
-          "name": "金庸經典劇+24小時輪播",
+          "name": "動物星球",
           "urls": [
-            "http://183.232.171.91/tx.hls.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.m3u8"
+            "http://220.130.10.141:8502/http/60.250.87.135:8081/hls/70/812/ch37.m3u8"
           ]
-        }
-      ]
-    },
-    {
-      "group": "douyu(Exo播放器)",
-      "channels": [
+        },
+        {
+          "name": "迪士尼",
+          "urls": [
+            "http://220.130.10.141:8505/http/60.250.87.135:8081/hls/70/812/ch40.m3u8"
+          ]
+        },
+        {
+          "name": "CN 卡通頻道",
+          "urls": [
+            "http://125.227.210.55:16671/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "MOMO親子台",
+          "urls": [
+            "http://50.7.61.7:30080/Entry/momo"
+          ]
+        },
+        {
+          "name": "東森幼幼台",
+          "urls": [
+            "http://220.130.10.141:8506/http/60.250.87.135:8081/hls/63/805/ch09.m3u8"
+          ]
+        },
+        {
+          "name": "緯來綜合台",
+          "urls": [
+            "http://220.130.10.141:8540/http/60.250.87.135:8081/hls/68/810/ch32.m3u8"
+          ]
+        },
+        {
+          "name": "八大第1台",
+          "urls": [
+            "http://220.130.10.141:8539/http/60.250.87.135:8081/hls/66/808/ch22.m3u8"
+          ]
+        },
+        {
+          "name": "八大綜合台",
+          "urls": [
+            "http://220.130.10.141:8517/http/60.250.87.135:8081/hls/66/808/ch21.m3u8"
+          ]
+        },
+        {
+          "name": "三立台灣台",
+          "urls": [
+            "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on",
+            "http://220.130.10.141:8519/http/123.51.149.60:8081/hls/65/807/ch20.m3u8",
+            "http://125.227.210.55:15714/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "三立都會台",
+          "urls": [
+            "https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on",
+            "http://220.130.10.141:8518/http/123.51.149.60:8081/hls/65/807/ch19.m3u8"
+          ]
+        },
+        {
+          "name": "衛視中文台",
+          "urls": [
+            "http://220.130.10.141:8522/http/123.51.149.60:8081/hls/62/804/ch05.m3u8"
+          ]
+        },
+        {
+          "name": "東森綜合台",
+          "urls": [
+            "http://220.130.10.141:8526/http/123.51.149.60:8081/hls/63/805/ch12.m3u8"
+          ]
+        },
+        {
+          "name": "東森超視",
+          "urls": [
+            "http://220.130.10.141:8555/http/123.51.149.60:8081/hls/64/806/ch14.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv331"
+          ]
+        },
+        {
+          "name": "中天綜合台",
+          "urls": [
+            "http://220.130.10.141:8520/http/123.51.149.60:8081/hls/67/809/ch25.m3u8",
+            "http://125.227.210.55:14583/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "東風衛視",
+          "urls": [
+            "http://220.130.10.141:8560/http/123.51.149.60:8081/hls/68/810/ch31.m3u8"
+          ]
+        },
+        {
+          "name": "MUCH TV",
+          "urls": [
+            "http://220.130.10.141:8558/http/123.51.149.60:8081/hls/72/814/ch45.m3u8"
+          ]
+        },
+        {
+          "name": "中天娛樂台",
+          "urls": [
+            "http://125.227.210.55:8092/0.ts",
+            "http://220.130.10.141:8521/http/123.51.149.60:8081/hls/67/809/ch26.m3u8",
+            "http://125.227.210.55:15796/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "東森戲劇",
+          "urls": [
+            "http://220.130.10.141:8538/http/123.51.149.60:8081/hls/64/806/ch13.m3u8",
+            "http://125.227.210.55:17524/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "八大戲劇台",
+          "urls": [
+            "http://220.130.10.141:8549/http/123.51.149.60:8081/hls/66/808/ch23.m3u8"
+          ]
+        },
+        {
+          "name": "TVBS 歡樂台",
+          "urls": [
+            "http://220.130.10.141:8516/http/123.51.149.60:8081/hls/65/807/ch17.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv421"
+          ]
+        },
+        {
+          "name": "緯來戲劇台",
+          "urls": [
+            "http://220.130.10.141:8557/http/123.51.149.60:8081/hls/69/811/ch33.m3u8"
+          ]
+        },
+        {
+          "name": "高點綜合台",
+          "urls": [
+            "http://104.149.175.170:12002/1003"
+          ]
+        },
+        {
+          "name": "JET-TV",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/jet"
+          ]
+        },
+        {
+          "name": "三立財經新聞台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/setinews.m3u8"
+          ]
+        },
+        {
+          "name": "壹電視新聞台",
+          "urls": [
+            "http://220.130.10.141:8574/http/116.50.42.19:8081/hls/66/808/ch24.m3u8",
+            "http://stream.nexttv.com.tw/n001/hd/live.m3u8"
+          ]
+        },
         {
-          "name": "RunningMan",
+          "name": "年代新聞台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid="
+            "http://220.130.10.141:8561/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
+            "http://125.227.210.55:11055/VideoInput/play.ts"
           ]
         },
         {
-          "name": "【RM-點播】點播！模式-24H歡樂不斷",
+          "name": "東森新聞台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv?uuid="
+            "http://218.32.45.104:7078/VideoInput/play.ts",
+            "http://220.130.10.141:8512/http/123.51.149.60:8081/hls/63/805/ch10.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/EBCnews.m3u8"
           ]
         },
         {
-          "name": "全新影片",
+          "name": "民視新聞台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="
+            "http://220.130.10.141:8563/http/123.51.149.60:8081/hls/73/815/ch51.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/ftvnews.m3u8"
           ]
         },
         {
-          "name": "周星馳",
+          "name": "三立新聞台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid="
+            "http://220.130.10.141:8562/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
+            "http://125.227.210.55:15589/VideoInput/play.ts",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/setnews.m3u8"
           ]
         },
         {
-          "name": "華語經典",
+          "name": "TVBS新聞台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid="
+            "http://50.7.61.148:30080/Entry/tvbsnews",
+            "http://125.227.210.55:16329/VideoInput/play.ts",
+            "rtmp://9hv4.mine.nu/sat/tv551"
           ]
         },
         {
-          "name": "【動漫】超燃懷舊經典",
+          "name": "TVBS",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/1174353rNV9kutoQ.flv?uuid="
+            "http://125.227.210.55:14250/VideoInput/play.ts",
+            "http://220.130.10.141:8510/http/116.50.42.19:8081/hls/64/806/ch15.m3u8"
           ]
         },
         {
-          "name": "✨動漫✨熱血木葉忍者草帽路飛青春",
+          "name": "東森財經新聞台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid="
+            "http://220.130.10.141:8515/http/116.50.42.19:8081/hls/63/805/ch11.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv571"
           ]
         },
         {
-          "name": "【超級賽亞人】悟吉塔",
+          "name": "非凡新聞台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7190773rKSoAalxm.flv?uuid="
+            "http://50.7.61.147:30080/Entry/ubn",
+            "http://125.227.210.55:15078/VideoInput/play.ts"
+
           ]
         },
         {
-          "name": "【Hunter】動漫熱血老賊冒險",
+          "name": "衛視電影台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/6610883rdSnhO6m2.flv?uuid="
+            "http://220.130.10.141:8529/http/116.50.42.19:8081/hls/62/804/ch07.m3u8",
+            "http://50.7.61.147:30080/Entry/starmovie"
           ]
         },
         {
-          "name": "動漫",
+          "name": "東森電影台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7686674rFH7xe5Ay.flv?uuid="
+            "http://218.32.45.104:1035/VideoInput/play.ts"
           ]
         },
         {
-          "name": "草帽、海賊團的直播間",
+          "name": "緯來電影台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/997925rsBT668jIk.flv?uuid="
+            "http://220.130.10.141:8556/http/116.50.42.19:8081/hls/69/811/ch35.m3u8",
+            "http://50.7.61.148:30080/Entry/vlmovie"
           ]
         },
         {
-          "name": "✨✨✨✨✨OK！",
+          "name": "LS TIME 電影台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7528160rs3fEUM9F.flv?uuid="
+            "http://104.149.175.170:13002/1008"
           ]
         },
         {
-          "name": "♥卡面來打♥",
+          "name": "HBO",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/1218414rr6ZjR26E.flv?uuid="
+            "http://220.130.10.141:8527/http/116.50.42.19:8081/hls/71/813/ch41.m3u8"
           ]
         },
         {
-          "name": "【天使點播】動漫直播間",
+          "name": "東森洋片台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/1487654rPnN0KiCq.flv?uuid="
+            "http://125.227.210.55:18685/VideoInput/play.ts"
           ]
         },
         {
-          "name": "海綿與大星直播間",
+          "name": "AXN",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/2250349rlW4vTmgr.flv?uuid="
+            "http://220.130.10.141:8548/http/116.50.42.19:8081/hls/71/813/ch43.m3u8",
+            "http://50.7.61.148:30080/Entry/axn"
           ]
         },
         {
-          "name": "【柯南】外表看似小孩，智慧卻過於常人",
+          "name": "好萊塢電影台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/6484910rBRo02nhA.flv?uuid="
+            "http://220.130.10.141:8523/http/116.50.42.19:8081/hls/74/816/ch55.m3u8"
           ]
         },
         {
-          "name": "成龍 小玉 老爹 釋壓 搞笑",
+          "name": "FOX MOVIES",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7066113rWmmNiU1h.flv?uuid="
+            "http://220.130.10.141:8530/http/116.50.42.19:8081/hls/62/804/ch08.m3u8"
           ]
         },
         {
-          "name": "【追憶】國語超清動畫電影",
+          "name": "CINEMAX",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/6449849reAo5WYR5.flv?uuid="
+            "http://220.130.10.141:8528/http/116.50.42.19:8081/hls/71/813/ch42.m3u8"
           ]
         },
         {
-          "name": "美味！蟹黃堡",
+          "name": "緯來育樂台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/8762358rSdwNfk7L.flv?uuid="
+            "http://220.130.10.141:8541/http/116.50.42.19:8081/hls/68/810/ch30.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv701"
           ]
         },
         {
-          "name": "星矢-燃燒吧我的小宇宙",
+          "name": "緯來體育台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/8458270rdS7YPlD9.flv?uuid="
+            "http://220.130.10.141:8509/http/59.120.8.187:8081/hls/67/809/ch28.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv721"
           ]
         },
         {
-          "name": "萬年如一柯播南",
+          "name": "ELEVEN SPORTS 1",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/1783144rZI6B9vk0.flv?uuid="
+            "http://220.130.10.141:8553/http/59.120.8.187:8078/hls/25/80/esport.m3u8",
+            "http://125.227.210.55:10677/VideoInput/play.ts",
+            "rtmp://9hv4.mine.nu/sat/tv731"
           ]
         },
         {
-          "name": "【遊戲王】我的回合！",
+          "name": "ELEVEN SPORTS 2",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/5100147rodpaDn84.flv?uuid="
+            "http://220.130.10.141:8554/http/59.120.8.187:8078/hls/26/80/esport2.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv741"
           ]
         },
         {
-          "name": "大星與海綿方塊",
+          "name": "MOMO綜合台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/3949681rjFj2u4gy.flv?uuid="
+            "http://220.130.10.141:8576/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv761",
+            "http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
           ]
         },
         {
-          "name": "【神劇】經典神劇",
+          "name": "緯來日本台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/3700024rpw4YsCWm.flv?uuid="
+            "rtmp://9hv4.mine.nu/sat/tv771"
           ]
         },
         {
-          "name": "【童年往事】仨房間畫面同步顯示點播",
+          "name": "國興衛視",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7256376rUDEqJ0SN.flv?uuid="
+            "http://104.149.175.170:13002/1002"
           ]
         },
         {
-          "name": "小當家、小埋陪伴大家",
+          "name": "FOX頻道",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/8231658rRGd8XKKo.flv?uuid="
+            "http://220.130.10.141:8504/http/116.50.42.19:8081/hls/61/803/ch02.m3u8"
           ]
         },
         {
-          "name": "一入夏目深似海，來生願作帳中妖",
+          "name": "MTV綜合電視台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/10210568ryEIxOFa.flv?uuid="
+            "http://104.149.175.170:14002/1004"
           ]
         },
         {
-          "name": "少女與半妖",
+          "name": "靖天資訊台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7422897rqodmTACQ.flv?uuid="
+            "http://104.149.179.98:15002/1002"
           ]
         },
         {
-          "name": "【星星動畫】童年 熱血 搞笑 愛情",
+          "name": "信吉電視台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/4369939rfKqHGxZe.flv?uuid="
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/sjtv.m3u8"
           ]
         },
         {
-          "name": "【三笠】根本不存在解不開的迷！",
+          "name": "WAKUWAKU JAPAN",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7050342rGoVnkkl7.flv?uuid="
+            "http://218.32.45.104:4047/VideoInput/play.ts",
+            "http://220.130.10.141:8572/http/123.51.149.60:8081/hls/61/803/ch03.m3u8"
           ]
         },
         {
-          "name": "【動漫】 24小時不間斷 動漫專場",
+          "name": "ANIMAX",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7493575rFwYPn0It.flv?uuid="
+            "http://220.130.10.141:8564/http/60.250.87.135:8081/hls/70/812/ch39.m3u8"
           ]
         },
         {
-          "name": "【經典懷舊動畫片】輪播",
+          "name": "寰宇新聞台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/7360064rG3xZJuMe.flv?uuid="
+            "http://220.130.10.141:8569/http/116.50.42.19:8081/hls/76/818/ch62.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/GlobalNews.m3u8"
           ]
         },
         {
-          "name": "韓國女團",
+          "name": "八大娛樂台",
           "urls": [
-            "http://dyscdnali1.douyucdn.cn/live/231464r9XzaQ89ir.flv?uuid="
+            "http://50.7.61.158:30080/Entry/gtvent"
           ]
-        }
-      ]
-    },
-    {
-      "group": "Bilibili(Exo播放器)",
-      "channels": [
+        },
+        {
+          "name": "冠軍電視台",
+          "urls": [
+            "http://104.149.175.170:13002/1013"
+          ]
+        },
+        {
+          "name": "Z頻道",
+          "urls": [
+            "http://50.7.61.4:30080/Entry/z"
+          ]
+        },
+        {
+          "name": "非凡商業台",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/ubnbus"
+          ]
+        },
         {
-          "name": "哆啦A夢新番 24小時連播 藍胖子24小時播放",
+          "name": "誠心電視台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=482946"
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/chengsintv.m3u8"
           ]
         },
         {
-          "name": "【哆啦A夢】舊版全集",
+          "name": "亞洲旅遊台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=1717236"
+            "http://220.130.10.141:8568/http/60.250.87.135:8081/hls/76/818/ch61.m3u8",
+            "http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
           ]
         },
         {
-          "name": "中華小當家中華一番 FHD-233",
+          "name": "海豚綜合台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=655291"
+            "http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
           ]
         },
         {
-          "name": "櫻桃小丸子 蠟筆小新 藍光特別版",
+          "name": "台灣藝術台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=21614203"
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/TACT.m3u8"
           ]
         },
         {
-          "name": "櫻桃小丸子國語台配",
+          "name": "信大電視台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=11765640"
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/sindatv.m3u8"
           ]
         },
         {
-          "name": "蠟筆小新24h睡覺背景音",
+          "name": "NHK WORLD PREMIUM",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=11579951"
+            "http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
           ]
         },
         {
-          "name": "經典動漫（推理、童年、靈異）",
+          "name": "天良綜合台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=4089143"
+            "http://60.248.91.20:8000/main"
           ]
         },
         {
-          "name": "【國語】新版舊版我們這一家24H高清陪伴",
+          "name": "台灣綜合台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=14901318"
+            "http://104.149.175.170:13002/1006"
           ]
         },
         {
-          "name": "哆啦A夢新版高清【國語】",
+          "name": "大立電視台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=12811814"
+            "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
           ]
         },
         {
-          "name": "台配櫻桃小丸子",
+          "name": "公視3台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=5827128"
+            "http://50.7.61.148:30080/Entry/pub"
           ]
         },
         {
-          "name": "開心漢堡店 怪誕小鎮24h輪播",
+          "name": "華視教育體育文化台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=2308015"
+            "http://218.32.45.104:5053/4.ts"
           ]
         },
         {
-          "name": "貓和老鼠大電影（24循環播放）",
+          "name": "國會頻道1台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=22905626"
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/parliamentarytv1.m3u8"
           ]
         },
         {
-          "name": "童年回憶殺!國語犬夜叉!24h不間斷直播",
+          "name": "國會頻道2台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=23089518"
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/parliamentarytv2.m3u8"
           ]
         },
         {
-          "name": "【1080】終極一家 終極三國",
+          "name": "幸福空間居家台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=22587179"
+            "https://newsstrm.myvideo.net.tw/HLS/GSTV/index.m3u8"
           ]
         },
         {
-          "name": "狄仁傑神探系列輪播",
+          "name": "智林體育台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=8331905"
+            "http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
           ]
         },
         {
-          "name": "【周星馳】喜劇 動作 殭屍 24H",
+          "name": "大愛二台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=47917"
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/daai2.m3u8",
+            "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
           ]
         },
         {
-          "name": "康熙微服私訪記1—4",
+          "name": "好消息二台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=4153440"
+            "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8"
           ]
         },
         {
-          "name": "鐵齒銅牙紀曉嵐 有片頭片尾勿噴",
+          "name": "高點育樂台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=22665698"
+            "http://104.149.175.170:12002/1003"
           ]
         },
         {
-          "name": "新白娘子傳奇。24小時經典輪播",
+          "name": "靖天綜合台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=5960549"
+            "http://104.149.179.98:15002/1002"
           ]
         },
         {
-          "name": "雍正王朝九子奪嫡",
+          "name": "唯心電視台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=21205932"
+            "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8"
           ]
         },
         {
-          "name": "封神演義等懷舊影視輪播",
+          "name": "寰宇新聞台灣台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=23644724"
+            "http://104.149.179.98:14002/1027"
           ]
         },
         {
-          "name": "鐵齒銅牙紀曉嵐",
+          "name": "民視第一台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=23553622"
+            "https://4gtvfreemobile-mozai.4gtv.tv/BS0hPFwEmjNJQjj2oFSy1Z-XQ9JgkjaDBtZQBS7S6B4%3d/stream2.m3u8?token=25j77IK5TofuZcj-JuUCMQ&expires=1632735955&token1=vu3xx42dEIv86AGcv0C74g&expires1=1632764755&refer=ZGQ2ZmNkZTMtYzQyMS00NTYzLTg5MTgtM2RhMjBhZmFhM2Rj&y=0"
           ]
         },
         {
-          "name": "【松鼠精選】動作片專場全明星陣容",
+          "name": "民視台灣台",
           "urls": [
-            "http://106.53.212.251/daili/bili.php?id=6827037"
+            "https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0"
           ]
-        }
-      ]
-    },
+        },
     {
       "group": "NewTV(ijk播放器)",
       "channels": [
