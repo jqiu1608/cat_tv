@@ -1,0 +1,3231 @@
+{
+  "sites": [
+	    {
+      "key": "首頁12月30日精簡接口      ",
+      "name": "首頁12月31日精簡接口 祝大家元旦快樂",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+
+
+	
+            {
+      "key": "愛奇藝會員(官源)",
+      "name": "愛奇藝會員(官源)",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+		    {
+      "key": "騰訊視頻(官源)",
+      "name": "騰訊視頻（官源)",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	
+	
+		    {
+      "key": "芒果TV會員(官源)",
+      "name": "芒果TV會員(官源)",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	
+			    {
+      "key": "搜狐視頻會員(官源)",
+      "name": "搜狐視頻會員(官源)",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	
+			    {
+      "key": "優酷視頻會員(官源)",
+      "name": "優酷視頻會員(官源)",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },	
+
+	    {
+      "key": "番茄影視",
+      "name": "番茄影視",
+      "type": 0,
+      "api": "https://tvcj.arbd.cn/api.php/provide/vod/at/xml/",
+      "playUrl": "https://tv.arbd.cn/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "藍光雲",
+      "name": "藍光雲",
+      "type": 1,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "key": "貓藍光",
+      "name": "貓藍光",
+      "type": 1,
+      "api": "https://mgtv.one/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "key": "官方",
+      "name": "官方",
+      "type": 0,
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "天堂",
+      "name": "天堂",
+      "type": 0,
+      "api": "http://vipmv.cc/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "明日",
+      "name": "明日",
+      "type": 0,
+      "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "北斗星",
+      "name": "北斗星",
+      "type": 0,
+      "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "番茄",
+      "name": "番茄",
+      "type": 1,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://dp.8b5q.cn/dplayer/?url="
+    },
+    {
+      "key": "紅牛",
+      "name": "紅牛",
+      "type": 1,
+      "api": "https://www.hongniuzy.com/inc/apijson_vod.php",
+      "playUrl": "https://www.tutukiki.com/m3u8/?url="
+    },
+    {
+      "key": "阿里",
+      "name": "阿里",
+      "type": 0,
+      "api": "https://bljiex.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "愛看",
+      "name": "愛看",
+      "type": 0,
+      "api": "http://v.aik.la/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+    },
+    {
+      "key": "天空",
+      "name": "天空",
+      "type": 0,
+      "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "快播",
+      "name": "快播",
+      "type": 0,
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "想看",
+      "name": "想看",
+      "type": 1,
+      "api": "https://m3u8.xiangkanapi.com/provide/vod/"
+    },
+    {
+      "key": "優劇",
+      "name": "優劇",
+      "type": 1,
+      "api": "https://zy.ujuba.com/api.php/provide/vod/",
+      "playUrl": "https://zy.ujuba.com/play.php?url="
+    },
+    {
+      "key": "橘貓",
+      "name": "橘貓",
+      "type": 0,
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 1,
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/"
+    },
+    {
+      "key": "安逸",
+      "name": "安逸",
+      "type": 0,
+      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "百度",
+      "name": "百度",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/"
+    },
+    {
+      "key": "穿梭",
+      "name": "穿梭",
+      "type": 1,
+      "api": "http://ok.888hyk.com/api.php/provide/vod/"
+    },
+    {
+      "key": "閃電",
+      "name": "閃電",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "英皇",
+      "name": "英皇",
+      "type": 1,
+      "api": "https://www.yhyczy.com/api.php/provide/vod/"
+    },
+    {
+      "key": "速更",
+      "name": "速更",
+      "type": 1,
+      "api": "https://sugengzy.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "無盡",
+      "name": "無盡",
+      "type": 1,
+      "api": "https://wuzy9.com/api.php/provide/vod/"
+    },
+    {
+      "key": "電影牛",
+      "name": "電影牛",
+      "type": 1,
+      "api": "https://www.dianyingn.cc/api.php/provide/vod/"
+    },
+    {
+      "key": "555",
+      "name": "555",
+      "type": 1,
+      "api": "http://w7tv.com/api.php/provide/vod/"
+    },
+    {
+      "key": "嗨哆咪",
+      "name": "嗨哆咪",
+      "type": 1,
+      "api": "http://hdmys1.com/api.php/provide/vod/"
+    },
+    {
+      "key": "348電影",
+      "name": "348電影",
+      "type": 1,
+      "api": "https://348z.com/api.php/provide/vod/"
+    },
+    {
+      "key": "追劇吧",
+      "name": "追劇吧",
+      "type": 1,
+      "api": "http://data.zju8.cc:1234/api.php/provide/vod/"
+    },
+    {
+      "key": "竹嘎",
+      "name": "竹嘎",
+      "type": 1,
+      "api": "http://m.ycccyk.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "搬運工",
+      "name": "搬運工",
+      "type": 1,
+      "api": "https://cj.banyung.xyz:7788/tongyong/"
+    },
+    {
+      "key": "56資源",
+      "name": "56資源",
+      "type": 1,
+      "api": "http://svip.popo520.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "江湖雲",
+      "name": "江湖雲",
+      "type": 1,
+      "api": "http://jhzy.jhdyw.vip:8091/api.php/provide/vod"
+    },
+    {
+      "key": "蝦米",
+      "name": "蝦米",
+      "type": 1,
+      "api": "https://zy.xmflv.vip/api.php/provide/vod/"
+    },
+    {
+      "key": "百搜",
+      "name": "百搜",
+      "type": 1,
+      "api": "https://vip.baisou.ltd/api.php/provide/vod/"
+    },
+    {
+      "key": "麒麟",
+      "name": "麒麟",
+      "type": 1,
+      "api": "http://www.qilinzyz.com/api.php/provide/vod/"
+    },
+    {
+      "key": "360資源",
+      "name": "360資源",
+      "type": 0,
+      "api": "http://360.hexh.ink/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "任我雲",
+      "name": "任我雲",
+      "type": 0,
+      "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "竹嘎資源",
+      "name": "竹嘎資源",
+      "type": 0,
+      "api": "http://m.ycccyk.cn/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "測試",
+      "name": "測試",
+      "type": 0,
+      "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "萌果",
+      "name": "萌果",
+      "type": 0,
+      "api": "http://api.appearoo.top/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "藍果",
+      "name": "藍果",
+      "type": 0,
+      "api": "http://www.languotv.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "千尋",
+      "name": "千尋",
+      "type": 1,
+      "api": "http://wy.dqyhg.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "嘀哩嘀哩",
+      "name": "嘀哩嘀哩",
+      "type": 1,
+      "api": "http://api.diliktv.xyz/api.php/provide/vod/"
+    },
+    {
+      "key": "三零",
+      "name": "三零",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/at/xml"
+    },
+    {
+      "key": "39影視",
+      "name": "39影視",
+      "type": 0,
+      "api": "https://www.39kan.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "追劇吧",
+      "name": "追劇吧",
+      "type": 0,
+      "api": "http://data.zju8.cc:1234/api.php/provide/vod/at/xml"
+    },
+
+
+
+   
+    {
+      "key": "csp_appys_xiaogui_555電影",
+      "name": "555電影(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "xiaogui_555電影"
+    }
+  ],
+  "lives": [
+    {
+      "group": "有線頻道",
+      "channels": [
+        {
+          "name": "民視",
+          "urls": [
+            "http://220.130.10.141:8545/http/60.250.87.135:8081/hls/73/815/ch49.m3u8",
+            "http://218.32.45.104:5054/1.ts",
+            "http://125.227.210.55:8093/0.ts",
+            "http://50.7.61.147:30080/Entry/ftv",
+            "rtmp://9hv4.mine.nu/sat/tv051"
+          ]
+        },
+        {
+          "name": "CNN新聞",
+          "urls": [
+            "http://220.130.10.141:8546/http/116.50.42.19:8081/hls/68/810/ch29.m3u8",
+            "http://218.32.45.104:6064/8.ts",
+            "http://125.227.210.55:10797/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "台視",
+          "urls": [
+            "http://220.130.10.141:8542/http/60.250.87.135:8081/hls/72/814/ch46.m3u8",
+            "http://218.32.45.104:5054/8.ts",
+            "http://50.7.61.148:30080/Entry/ttv",
+            "rtmp://9hv4.mine.nu/sat/tv071"
+          ]
+        },
+        {
+          "name": "人間衛視",
+          "urls": [
+            "http://220.130.10.141:8561/http/60.250.87.135:8081/hls/69/811/ch36.m3u8"
+          ]
+        },
+        {
+          "name": "中視",
+          "urls": [
+            "http://220.130.10.141:8542/http/60.250.87.135:8081/hls/72/814/ch47.m3u8",
+            "http://218.32.45.104:5053/12.ts",
+            "http://50.7.61.148:30080/Entry/ctv",
+            "rtmp://9hv4.mine.nu/sat/tv091"
+          ]
+        },
+        {
+          "name": "大愛",
+          "urls": [
+            "http://220.130.10.141:8567/http/60.250.87.135:8081/hls/73/815/ch52.m3u8",
+            "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/daai1.m3u8"
+
+          ]
+        },
+        {
+          "name": "華視",
+          "urls": [
+            "http://220.130.10.141:8544/http/60.250.87.135:8081/hls/72/814/ch48.m3u8",
+            "http://50.7.61.147:30080/Entry/cts",
+            "rtmp://9hv4.mine.nu/sat/tv111"
+          ]
+        },
+        {
+          "name": "霹靂台灣台",
+          "urls": [
+            "http://50.7.61.8:30080/Entry/pili"
+          ]
+        },
+        {
+          "name": "公視",
+          "urls": [
+            "http://220.130.10.141:8562/http/60.250.87.135:8081/hls/73/815/ch50.m3u8",
+            "http://218.32.45.104:5055/4.ts",
+            "http://50.7.61.148:30080/Entry/pub",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/PTS.m3u8"
+          ]
+        },
+        {
+          "name": "公視台語",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/pts2.m3u8"
+          ]
+        },
+        {
+          "name": "好消息",
+          "urls": [
+            "http://220.130.10.141:8507/http/60.250.87.135:8081/hls/74/816/ch53.m3u8"
+          ]
+        },
+        {
+          "name": "原住民頻道",
+          "urls": [
+            "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
+          ]
+        },
+        {
+          "name": "客家電視台",
+          "urls": [
+            "http://50.7.60.21:30080/Entry/haka"
+          ]
+        },
+        {
+          "name": "國家地理頻道",
+          "urls": [
+            "http://220.130.10.141:8501/http/60.250.87.135:8081/hls/61/803/ch01.m3u8"
+          ]
+        },
+        {
+          "name": "Discovery",
+          "urls": [
+            "http://220.130.10.141:8500/http/60.250.87.135:8081/hls/71/813/ch44.m3u8"
+          ]
+        },
+        {
+          "name": "旅遊生活頻道",
+          "urls": [
+            "http://220.130.10.141:8503/http/60.250.87.135:8081/hls/70/812/ch38.m3u8",
+            "http://125.227.210.55:19020/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "動物星球",
+          "urls": [
+            "http://220.130.10.141:8502/http/60.250.87.135:8081/hls/70/812/ch37.m3u8"
+          ]
+        },
+        {
+          "name": "迪士尼",
+          "urls": [
+            "http://218.32.45.104:7019/VideoInput/play.ts",
+            "http://220.130.10.141:8505/http/60.250.87.135:8081/hls/70/812/ch40.m3u8"
+          ]
+        },
+        {
+          "name": "CN 卡通頻道",
+          "urls": [
+            "http://125.227.210.55:16671/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "MOMO親子台",
+          "urls": [
+            "http://50.7.61.7:30080/Entry/momo"
+          ]
+        },
+        {
+          "name": "東森幼幼台",
+          "urls": [
+            "http://220.130.10.141:8506/http/60.250.87.135:8081/hls/63/805/ch09.m3u8"
+          ]
+        },
+        {
+          "name": "緯來綜合台",
+          "urls": [
+            "http://220.130.10.141:8540/http/60.250.87.135:8081/hls/68/810/ch32.m3u8"
+          ]
+        },
+        {
+          "name": "八大第1台",
+          "urls": [
+            "http://220.130.10.141:8539/http/60.250.87.135:8081/hls/66/808/ch22.m3u8"
+          ]
+        },
+        {
+          "name": "八大綜合台",
+          "urls": [
+            "http://220.130.10.141:8517/http/60.250.87.135:8081/hls/66/808/ch21.m3u8"
+          ]
+        },
+        {
+          "name": "三立台灣台",
+          "urls": [
+            "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on",
+            "http://220.130.10.141:8519/http/123.51.149.60:8081/hls/65/807/ch20.m3u8",
+            "http://125.227.210.55:15714/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "三立都會台",
+          "urls": [
+            "https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on",
+            "http://220.130.10.141:8518/http/123.51.149.60:8081/hls/65/807/ch19.m3u8"
+          ]
+        },
+        {
+          "name": "衛視中文台",
+          "urls": [
+            "http://220.130.10.141:8522/http/123.51.149.60:8081/hls/62/804/ch05.m3u8"
+          ]
+        },
+        {
+          "name": "東森綜合台",
+          "urls": [
+            "http://220.130.10.141:8526/http/123.51.149.60:8081/hls/63/805/ch12.m3u8"
+          ]
+        },
+        {
+          "name": "東森超視",
+          "urls": [
+            "http://220.130.10.141:8555/http/123.51.149.60:8081/hls/64/806/ch14.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv331"
+          ]
+        },
+        {
+          "name": "中天綜合台",
+          "urls": [
+            "http://220.130.10.141:8520/http/123.51.149.60:8081/hls/67/809/ch25.m3u8",
+            "http://218.32.45.104:1005/VideoInput/play.ts",
+            "http://125.227.210.55:14583/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "東風衛視",
+          "urls": [
+            "http://220.130.10.141:8560/http/123.51.149.60:8081/hls/68/810/ch31.m3u8"
+          ]
+        },
+        {
+          "name": "MUCH TV",
+          "urls": [
+            "http://220.130.10.141:8558/http/123.51.149.60:8081/hls/72/814/ch45.m3u8"
+          ]
+        },
+        {
+          "name": "中天娛樂台",
+          "urls": [
+            "http://125.227.210.55:8092/0.ts",
+            "http://220.130.10.141:8521/http/123.51.149.60:8081/hls/67/809/ch26.m3u8",
+            "http://218.32.45.104:4007/VideoInput/play.ts",
+            "http://125.227.210.55:15796/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "東森戲劇",
+          "urls": [
+            "http://220.130.10.141:8538/http/123.51.149.60:8081/hls/64/806/ch13.m3u8",
+            "http://218.32.45.104:1011/VideoInput/play.ts",
+            "http://125.227.210.55:17524/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "八大戲劇台",
+          "urls": [
+            "http://220.130.10.141:8549/http/123.51.149.60:8081/hls/66/808/ch23.m3u8"
+          ]
+        },
+        {
+          "name": "TVBS 歡樂台",
+          "urls": [
+            "http://220.130.10.141:8516/http/123.51.149.60:8081/hls/65/807/ch17.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv421"
+          ]
+        },
+        {
+          "name": "緯來戲劇台",
+          "urls": [
+            "http://220.130.10.141:8557/http/123.51.149.60:8081/hls/69/811/ch33.m3u8"
+          ]
+        },
+        {
+          "name": "高點綜合台",
+          "urls": [
+            "http://218.32.45.104:6061/12.ts",
+            "http://104.149.175.170:12002/1003"
+          ]
+        },
+        {
+          "name": "JET-TV",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/jet"
+          ]
+        },
+        {
+          "name": "三立財經新聞台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/setinews.m3u8"
+          ]
+        },
+        {
+          "name": "壹電視新聞台",
+          "urls": [
+            "http://220.130.10.141:8574/http/116.50.42.19:8081/hls/66/808/ch24.m3u8",
+            "http://stream.nexttv.com.tw/n001/hd/live.m3u8"
+          ]
+        },
+        {
+          "name": "年代新聞台",
+          "urls": [
+            "http://220.130.10.141:8561/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
+            "http://125.227.210.55:11055/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "東森新聞台",
+          "urls": [
+            "http://218.32.45.104:7078/VideoInput/play.ts",
+            "http://220.130.10.141:8512/http/123.51.149.60:8081/hls/63/805/ch10.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/EBCnews.m3u8"
+          ]
+        },
+        {
+          "name": "民視新聞台",
+          "urls": [
+            "http://220.130.10.141:8563/http/123.51.149.60:8081/hls/73/815/ch51.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/ftvnews.m3u8"
+          ]
+        },
+        {
+          "name": "三立新聞台",
+          "urls": [
+            "http://220.130.10.141:8562/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
+            "http://125.227.210.55:15589/VideoInput/play.ts",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/setnews.m3u8"
+          ]
+        },
+        {
+          "name": "TVBS新聞台",
+          "urls": [
+            "http://50.7.61.148:30080/Entry/tvbsnews",
+            "http://125.227.210.55:16329/VideoInput/play.ts",
+            "rtmp://9hv4.mine.nu/sat/tv551"
+          ]
+        },
+        {
+          "name": "TVBS",
+          "urls": [
+            "http://125.227.210.55:14250/VideoInput/play.ts",
+            "http://220.130.10.141:8510/http/116.50.42.19:8081/hls/64/806/ch15.m3u8"
+          ]
+        },
+        {
+          "name": "東森財經新聞台",
+          "urls": [
+            "http://220.130.10.141:8515/http/116.50.42.19:8081/hls/63/805/ch11.m3u8",
+            "http://218.32.45.104:6061/4.ts",
+            "rtmp://9hv4.mine.nu/sat/tv571"
+          ]
+        },
+        {
+          "name": "非凡新聞台",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/ubn",
+            "http://125.227.210.55:15078/VideoInput/play.ts"
+
+          ]
+        },
+        {
+          "name": "衛視電影台",
+          "urls": [
+            "http://220.130.10.141:8529/http/116.50.42.19:8081/hls/62/804/ch07.m3u8",
+            "http://50.7.61.147:30080/Entry/starmovie"
+          ]
+        },
+        {
+          "name": "東森電影台",
+          "urls": [
+            "http://218.32.45.104:1035/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "緯來電影台",
+          "urls": [
+            "http://220.130.10.141:8556/http/116.50.42.19:8081/hls/69/811/ch35.m3u8",
+            "http://50.7.61.148:30080/Entry/vlmovie"
+          ]
+        },
+        {
+          "name": "LS TIME 電影台",
+          "urls": [
+            "http://104.149.175.170:13002/1008"
+          ]
+        },
+        {
+          "name": "HBO",
+          "urls": [
+            "http://220.130.10.141:8527/http/116.50.42.19:8081/hls/71/813/ch41.m3u8"
+          ]
+        },
+        {
+          "name": "東森洋片台",
+          "urls": [
+            "http://218.32.45.104:1010/VideoInput/play.ts",
+            "http://125.227.210.55:18685/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "AXN",
+          "urls": [
+            "http://220.130.10.141:8548/http/116.50.42.19:8081/hls/71/813/ch43.m3u8",
+            "http://50.7.61.148:30080/Entry/axn"
+          ]
+        },
+        {
+          "name": "好萊塢電影台",
+          "urls": [
+            "http://218.32.45.104:6061/1.ts",
+            "http://220.130.10.141:8523/http/116.50.42.19:8081/hls/74/816/ch55.m3u8"
+          ]
+        },
+        {
+          "name": "Star Movies",
+          "urls": [
+            "http://220.130.10.141:8530/http/116.50.42.19:8081/hls/62/804/ch08.m3u8",
+            "http://218.32.45.104:1216/VideoInput/play.ts",
+            "http://125.227.210.55:18789/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "CINEMAX",
+          "urls": [
+            "http://220.130.10.141:8528/http/116.50.42.19:8081/hls/71/813/ch42.m3u8"
+          ]
+        },
+        {
+          "name": "緯來育樂台",
+          "urls": [
+            "http://220.130.10.141:8541/http/116.50.42.19:8081/hls/68/810/ch30.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv701"
+          ]
+        },
+        {
+          "name": "緯來體育台",
+          "urls": [
+            "http://220.130.10.141:8509/http/59.120.8.187:8081/hls/67/809/ch28.m3u8",
+            "http://125.227.210.55:18358/VideoInput/play.ts",
+            "rtmp://9hv4.mine.nu/sat/tv721"
+          ]
+        },
+        {
+          "name": "ELEVEN SPORTS 1",
+          "urls": [
+            "http://220.130.10.141:8553/http/59.120.8.187:8078/hls/25/80/esport.m3u8",
+            "http://125.227.210.55:10677/VideoInput/play.ts",
+            "rtmp://9hv4.mine.nu/sat/tv731"
+          ]
+        },
+        {
+          "name": "ELEVEN SPORTS 2",
+          "urls": [
+            "http://220.130.10.141:8554/http/59.120.8.187:8078/hls/26/80/esport2.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv741"
+          ]
+        },
+        {
+          "name": "MOMO綜合台",
+          "urls": [
+            "http://220.130.10.141:8576/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv761",
+            "http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
+          ]
+        },
+        {
+          "name": "緯來日本台",
+          "urls": [
+            "rtmp://9hv4.mine.nu/sat/tv771"
+          ]
+        },
+        {
+          "name": "國興衛視",
+          "urls": [
+            "http://104.149.175.170:13002/1002"
+          ]
+        },
+        {
+          "name": "Star World",
+          "urls": [
+            "http://220.130.10.141:8504/http/116.50.42.19:8081/hls/61/803/ch02.m3u8",
+            "http://218.32.45.104:4015/VideoInput/play.ts",
+            "http://125.227.210.55:13498/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "MTV綜合電視台",
+          "urls": [
+            "http://104.149.175.170:14002/1004"
+          ]
+        },
+        {
+          "name": "靖天資訊台",
+          "urls": [
+            "http://104.149.179.98:15002/1002"
+          ]
+        },
+        {
+          "name": "信吉電視台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/sjtv.m3u8"
+          ]
+        },
+        {
+          "name": "WAKUWAKU JAPAN",
+          "urls": [
+            "http://218.32.45.104:4047/VideoInput/play.ts",
+            "http://50.7.74.29:8880/hlsok/j00201/index.m3u8",
+            "http://220.130.10.141:8572/http/123.51.149.60:8081/hls/61/803/ch03.m3u8"
+          ]
+        },
+        {
+          "name": "ANIMAX",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/ph00309/index.m3u8",
+            "http://220.130.10.141:8564/http/60.250.87.135:8081/hls/70/812/ch39.m3u8"
+          ]
+        },
+        {
+          "name": "寰宇新聞台",
+          "urls": [
+            "http://220.130.10.141:8569/http/116.50.42.19:8081/hls/76/818/ch62.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/GlobalNews.m3u8"
+          ]
+        },
+        {
+          "name": "八大娛樂台",
+          "urls": [
+            "http://50.7.61.158:30080/Entry/gtvent"
+          ]
+        },
+        {
+          "name": "冠軍電視台",
+          "urls": [
+            "http://104.149.175.170:13002/1013"
+          ]
+        },
+        {
+          "name": "Z頻道",
+          "urls": [
+            "http://50.7.61.4:30080/Entry/z",
+            "http://51.79.193.109:8080/hlsok/j00203/index.m3u8"
+          ]
+        },
+        {
+          "name": "非凡商業台",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/ubnbus"
+          ]
+        },
+        {
+          "name": "誠心電視台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/chengsintv.m3u8"
+          ]
+        },
+        {
+          "name": "亞洲旅遊台",
+          "urls": [
+            "http://220.130.10.141:8568/http/60.250.87.135:8081/hls/76/818/ch61.m3u8",
+            "http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
+          ]
+        },
+        {
+          "name": "海豚綜合台",
+          "urls": [
+            "http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
+          ]
+        },
+        {
+          "name": "台灣藝術台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/TACT.m3u8"
+          ]
+        },
+        {
+          "name": "信大電視台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/sindatv.m3u8"
+          ]
+        },
+        {
+          "name": "NHK WORLD PREMIUM",
+          "urls": [
+            "http://220.130.10.141:8525/http/116.50.42.19:8081/hls/62/804/ch06.m3u8",
+            "http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
+          ]
+        },
+        {
+          "name": "天良綜合台",
+          "urls": [
+            "http://60.248.91.20:8000/main"
+          ]
+        },
+        {
+          "name": "台灣綜合台",
+          "urls": [
+            "http://104.149.175.170:13002/1006"
+          ]
+        },
+        {
+          "name": "大立電視台",
+          "urls": [
+            "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+          ]
+        },
+        {
+          "name": "公視3台",
+          "urls": [
+            "http://218.32.45.104:5055/12.ts"
+          ]
+        },
+        {
+          "name": "華視教育體育文化台",
+          "urls": [
+            "http://218.32.45.104:5053/4.ts"
+          ]
+        },
+        {
+          "name": "國會頻道1台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/parliamentarytv1.m3u8"
+          ]
+        },
+        {
+          "name": "國會頻道2台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/parliamentarytv2.m3u8"
+          ]
+        },
+        {
+          "name": "幸福空間居家台",
+          "urls": [
+            "http://104.149.178.58:15002/1018"
+          ]
+        },
+        {
+          "name": "智林體育台",
+          "urls": [
+            "http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
+          ]
+        },
+        {
+          "name": "大愛二台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/daai2.m3u8",
+            "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+          ]
+        },
+        {
+          "name": "好消息二台",
+          "urls": [
+            "http://218.32.45.104:7006/VideoInput/play.ts",
+            "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8"
+          ]
+        },
+        {
+          "name": "高點育樂台",
+          "urls": [
+            "http://104.149.175.170:12002/1003"
+          ]
+        },
+        {
+          "name": "靖天綜合台",
+          "urls": [
+            "http://104.149.179.98:15002/1002"
+          ]
+        },
+        {
+          "name": "唯心電視台",
+          "urls": [
+            "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "寰宇新聞台灣台",
+          "urls": [
+            "http://104.149.179.98:14002/1027"
+          ]
+        },
+        {
+          "name": "民視第一台",
+          "urls": [
+            "https://4gtvfreemobile-mozai.4gtv.tv/BS0hPFwEmjNJQjj2oFSy1Z-XQ9JgkjaDBtZQBS7S6B4%3d/stream2.m3u8?token=25j77IK5TofuZcj-JuUCMQ&expires=1632735955&token1=vu3xx42dEIv86AGcv0C74g&expires1=1632764755&refer=ZGQ2ZmNkZTMtYzQyMS00NTYzLTg5MTgtM2RhMjBhZmFhM2Rj&y=0",
+            "http://218.32.45.104:5055/8.ts"
+          ]
+        },
+        {
+          "name": "民視台灣台",
+          "urls": [
+            "https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0"
+          ]
+        },
+        {
+          "name": "中視菁采台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "中視新聞台",
+          "urls": [
+            "http://218.32.45.104:5053/1.ts",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/ctvnews.m3u8"
+          ]
+        },
+        {
+          "name": "台視新聞台",
+          "urls": [
+            "http://218.32.45.104:5054/4.ts",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/ttvnews.m3u8"
+          ]
+        },
+        {
+          "name": "台視財經台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "台視綜合台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "Bloomberg Television",
+          "urls": [
+            "http://220.130.10.141:8552/http/116.50.42.19:8067/hls/76/bloombergnews88.m3u8",
+            "http://125.227.210.55:18184/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "BBC World News",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/bbc",
+            "http://125.227.210.55:10246/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "TV5MONDE",
+          "urls": [
+            "http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
+          ]
+        },
+        {
+          "name": "Channel News Asia",
+          "urls": [
+            "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/CNA.m3u8"
+          ]
+        },
+        {
+          "name": "狼谷育樂台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "BBC Earth",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000028/index.m3u8"
+          ]
+        },
+        {
+          "name": "BBC Lifestyle",
+          "urls": [
+            "http://104.149.178.58:15002/1015"
+          ]
+        },
+        {
+          "name": "afc 亞洲美食頻道",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/t000018/index.m3u8",
+            "http://51.79.193.109:8080/hlsok/t000019/index.m3u8",
+            "http://173.0.54.26:30080/Entry/afc"
+          ]
+        },
+        {
+          "name": "梅迪奇藝術頻道",
+          "urls": [
+            "http://104.149.178.58:15002/1001"
+          ]
+        },
+        {
+          "name": "Discovery Asia",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/t000005/index.m3u8",
+            "http://218.32.45.104:4046/VideoInput/play.ts",
+            "http://125.227.210.55:10388/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "Discovery科學頻道",
+          "urls": [
+            "http://http://50.7.74.29:8880/hlsok/t000007/index.m3u8"
+          ]
+        },
+        {
+          "name": "DMAX",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000008/index.m3u8"
+          ]
+        },
+        {
+          "name": "EVE",
+          "urls": [
+            "http://104.149.178.58:15002/1006"
+          ]
+        },
+        {
+          "name": "博斯運動一台",
+          "urls": [
+            "http://220.130.10.141:8570/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8"
+          ]
+        },
+        {
+          "name": "HITS",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "國家地理國際頻道",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/ngc",
+            "http://218.32.45.104:4020/VideoInput/play.ts",
+            "http://125.227.210.55:16408/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "國家地理高畫質野生頻道",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/ngcWild"
+          ]
+        },
+        {
+          "name": "滾動力 rollor",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "amc最愛頻道",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "My Cinema Europe HD 我的歐洲電影",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "HBO HD",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000001/index.m3u8",
+            "http://125.227.210.55:16027/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "HBO Signature 原創鉅獻",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000004/index.m3u8",
+            "http://50.7.14.12:30080/Entry/hbosig"
+          ]
+        },
+        {
+          "name": "HBO Hits 強檔鉅獻",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000002/index.m3u8",
+            "http://50.7.14.12:30080/Entry/hbohits"
+          ]
+        },
+        {
+          "name": "HBO Family",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000003/index.m3u8",
+            "http://50.7.14.12:30080/Entry/hbofamily"
+          ]
+        },
+        {
+          "name": "tvN",
+          "urls": [
+            "http://104.149.179.98:14002/1024"
+          ]
+        },
+        {
+          "name": "星衛娛樂台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "星衛HD電影台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "ROCK ENTERTAINMENT",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "ROCK EXTREME",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "CMusic",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "Warner TV",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "MTV Live音樂頻道",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "BaBy TV",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/ph00310/index.m3u8"
+          ]
+        },
+        {
+          "name": "Nickelodeon Asia尼克兒童頻道",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/ph00308/index.m3u8"
+          ]
+        },
+        {
+          "name": "Nick Jr.(小尼克)",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "Cbeebies",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "Eurosport",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯運動一台",
+          "urls": [
+            "http://104.149.178.58:15002/1005"
+          ]
+        },
+        {
+          "name": "博斯運動二台",
+          "urls": [
+            "http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
+          ]
+        },
+        {
+          "name": "博斯高球一台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯高球二台",
+          "urls": [
+            "http://104.149.179.98:14002/1022"
+          ]
+        },
+        {
+          "name": "博斯魅力網",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯網球台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯無限台",
+          "urls": [
+            "http://104.149.178.58:15002/1002"
+          ]
+        },
+        {
+          "name": "博斯無限2台",
+          "urls": [
+            "http://"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "網路電視MOD",
+      "channels": [
+        {
+          "name": "民視",
+          "urls": [
+            "https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0"
+          ]
+        },
+        {
+          "name": "人間衛視",
+          "urls": [
+            "http://220.130.10.141:8561/http/114.34.116.118:8881/hls/69/811/ch36.m3u8"
+          ]
+        },
+        {
+          "name": "台視",
+          "urls": [
+            "http://50.7.61.148:30080/Entry/ttv"
+          ]
+        },
+        {
+          "name": "大愛電視",
+          "urls": [
+            "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+          ]
+        },
+        {
+          "name": "中視",
+          "urls": [
+            "http://220.130.10.141:8542/http/60.250.87.135:8081/hls/72/814/ch47.m3u8"
+          ]
+        },
+        {
+          "name": "華視",
+          "urls": [
+            "http://220.130.10.141:8544/http/60.250.87.135:8081/hls/72/814/ch48.m3u8"
+          ]
+        },
+        {
+          "name": "公視",
+          "urls": [
+            "http://220.130.10.141:8562/http/60.250.87.135:8081/hls/73/815/ch50.m3u8"
+          ]
+        },
+        {
+          "name": "公視台語台",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/pts2.m3u8"
+          ]
+        },
+        {
+          "name": "好消息衛星電視台",
+          "urls": [
+            "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8"
+          ]
+        },
+        {
+          "name": "原住民族電視台",
+          "urls": [
+            "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
+          ]
+        },
+        {
+          "name": "客家電視",
+          "urls": [
+            "http://50.7.60.21:30080/Entry/haka"
+          ]
+        },
+        {
+          "name": "華視教育體育文化台",
+          "urls": [
+            "http://218.32.45.104:5053/4.ts"
+          ]
+        },
+        {
+          "name": "公視3台",
+          "urls": [
+            "http://218.32.45.104:5055/12.ts"
+          ]
+        },
+        {
+          "name": "大愛二台",
+          "urls": [
+            "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+          ]
+        },
+        {
+          "name": "BabyTV",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/ph00310/index.m3u8"
+          ]
+        },
+        {
+          "name": "MY-KIDSTV",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "Boomerang",
+          "urls": [
+            "http://104.149.175.170:14002/1012"
+          ]
+        },
+        {
+          "name": "ELTV生活英語台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "龍華動畫",
+          "urls": [
+            "http://220.130.10.141:8508/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8"
+          ]
+        },
+        {
+          "name": "尼克兒童頻道",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/ph00308/index.m3u8"
+          ]
+        },
+        {
+          "name": "靖洋卡通台",
+          "urls": [
+            "http://104.149.179.98:14002/1007"
+          ]
+        },
+        {
+          "name": "靖天卡通台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "CBeebies",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "達文西頻道",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "NickJr.",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "DREAMWORKS",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "寶寶世界頻道",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "國會頻道1",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/parliamentarytv1.m3u8"
+          ]
+        },
+        {
+          "name": "國會頻道2",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/parliamentarytv2.m3u8"
+          ]
+        },
+        {
+          "name": "Medici-arts",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "MTVLive",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "MTV綜合電視台",
+          "urls": [
+            "http://104.149.175.170:14002/1004"
+          ]
+        },
+        {
+          "name": "MezzoLiveHD",
+          "urls": [
+            "http://104.149.178.58:15002/1000"
+          ]
+        },
+        {
+          "name": "TRACEUrban",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "古典音樂台CLASSICAHD",
+          "urls": [
+            "http://104.149.178.58:15002/1003"
+          ]
+        },
+        {
+          "name": "CMusic",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "愛爾達體育1台",
+          "urls": [
+            "http://50.7.61.168:30080/Entry/eltasport1"
+          ]
+        },
+        {
+          "name": "愛爾達體育2台",
+          "urls": [
+            "http://50.7.61.168:30080/Entry/eltasport2"
+          ]
+        },
+        {
+          "name": "愛爾達體育3台",
+          "urls": [
+            "http://50.7.61.168:30080/Entry/eltasport3"
+          ]
+        },
+        {
+          "name": "TRACE Sport Stars",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯高球一台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯高球二台",
+          "urls": [
+            "http://104.149.179.98:14002/1022"
+          ]
+        },
+        {
+          "name": "博斯網球台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯魅力網",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯無限台",
+          "urls": [
+            "http://104.149.178.58:15002/1002"
+          ]
+        },
+        {
+          "name": "博斯無限二台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "狼谷育樂台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "ELEVEN SPORTS PLUS",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯運動一台",
+          "urls": [
+            "http://220.130.10.141:8570/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8"
+          ]
+        },
+        {
+          "name": "ELEVENSPORTS1",
+          "urls": [
+            "http://125.227.210.55:10677/VideoInput/play.ts",
+            "rtmp://9hv4.mine.nu/sat/tv731"
+          ]
+        },
+        {
+          "name": "ELEVENSPORTS2",
+          "urls": [
+            "http://220.130.10.141:8554/http/59.120.8.187:8078/hls/26/80/esport2.m3u8",
+            "rtmp://9hv4.mine.nu/sat/tv741"
+          ]
+        },
+        {
+          "name": "智林體育台",
+          "urls": [
+            "http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000162&as=&dr=&mmmm="
+          ]
+        },
+        {
+          "name": "EUROSPORT",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "博斯運動二台",
+          "urls": [
+            "http://104.149.178.58:15002/1004"
+          ]
+        },
+        {
+          "name": "國家地理國際頻道",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/ngc"
+          ]
+        },
+        {
+          "name": "國家地理野生頻道",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/ngcWild"
+          ]
+        },
+        {
+          "name": "BBCEarth",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000028/index.m3u8"
+          ]
+        },
+        {
+          "name": "DiscoveryAsia",
+          "urls": [
+            "http://125.227.210.55:10388/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "Discovery科學頻道",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000007/index.m3u8"
+          ]
+        },
+        {
+          "name": "DMAX",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000008/index.m3u8"
+          ]
+        },
+        {
+          "name": "EVE",
+          "urls": [
+            "http://104.149.178.58:15002/1006"
+          ]
+        },
+        {
+          "name": "HISTORY2",
+          "urls": [
+            "http://104.149.178.58:15002/1016"
+          ]
+        },
+        {
+          "name": "歷史頻道",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000025/index.m3u8"
+          ]
+        },
+        {
+          "name": "罪案偵緝頻道",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000021/index.m3u8",
+            "http://104.149.179.98:14002/1005"
+          ]
+        },
+        {
+          "name": "BBCLifestyleChannel",
+          "urls": [
+            "http://104.149.178.58:15002/1015"
+          ]
+        },
+        {
+          "name": "PET CLUB TV",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "LUXETVChannel",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "Lifetime",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000027/index.m3u8"
+          ]
+        },
+        {
+          "name": "KLT-靖天國際台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "幸福空間居家台",
+          "urls": [
+            "http://104.149.178.58:15002/1018"
+          ]
+        },
+        {
+          "name": "滾動力rollor",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "HGTV居家樂活頻道",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000026/index.m3u8"
+          ]
+        },
+        {
+          "name": "LOVE NATURE",
+          "urls": [
+            "http://104.149.178.58:15002/1017"
+          ]
+        },
+        {
+          "name": "美食星球頻道",
+          "urls": [
+            "http://104.149.179.98:14002/1013"
+          ]
+        },
+        {
+          "name": "AsianFoodChannel亞洲美食頻道",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000019/index.m3u8",
+            "http://50.7.74.29:8880/hlsok/t000018/index.m3u8"
+          ]
+        },
+        {
+          "name": "FoodNetwork美食台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "亞洲旅遊台",
+          "urls": [
+            "http://220.130.10.141:8568/http/60.250.87.135:8081/hls/76/818/ch61.m3u8"
+          ]
+        },
+        {
+          "name": "EYETV旅遊台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "TravelChannel",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "時尚頻道",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "FashionOne",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "TV5MONDESTYLEHD生活時尚",
+          "urls": [
+            "https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8"
+          ]
+        },
+        {
+          "name": "東森購物一台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "愛爾達綜合台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "三立綜合台",
+          "urls": [
+            "http://104.149.179.98:14002/1014"
+          ]
+        },
+        {
+          "name": "靖天資訊台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "靖天綜合台",
+          "urls": [
+            "http://104.149.179.98:15002/1002"
+          ]
+        },
+        {
+          "name": "靖天育樂台",
+          "urls": [
+            "http://104.149.179.98:14002/1020"
+          ]
+        },
+        {
+          "name": "Smart知識台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "台視綜合台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "亞洲綜合台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "中視經典台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "寰宇HD綜合台",
+          "urls": [
+            "http://104.149.179.98:14002/1004"
+          ]
+        },
+        {
+          "name": "中視菁采台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "TVBS精采台",
+          "urls": [
+            "http://104.149.179.98:14002/1001"
+          ]
+        },
+        {
+          "name": "壹電視資訊綜合台",
+          "urls": [
+            "http://104.149.178.58:15002/1008"
+          ]
+        },
+        {
+          "name": "緯來精采台",
+          "urls": [
+            "http://104.149.179.98:14002/1015"
+          ]
+        },
+        {
+          "name": "天天電視台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "ETtoday綜合台",
+          "urls": [
+            "http://104.149.179.98:14002/1006"
+          ]
+        },
+        {
+          "name": "民視第一台",
+          "urls": [
+            "https://4gtvfreemobile-mozai.4gtv.tv/BS0hPFwEmjNJQjj2oFSy1Z-XQ9JgkjaDBtZQBS7S6B4%3d/stream2.m3u8?token=25j77IK5TofuZcj-JuUCMQ&expires=1632735955&token1=vu3xx42dEIv86AGcv0C74g&expires1=1632764755&refer=ZGQ2ZmNkZTMtYzQyMS00NTYzLTg5MTgtM2RhMjBhZmFhM2Rj&y=0"
+          ]
+        },
+        {
+          "name": "民視台灣台",
+          "urls": [
+            "https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0"
+          ]
+        },
+        {
+          "name": "Nice TV靖天歡樂台",
+          "urls": [
+            "http://104.149.179.98:14002/1028"
+          ]
+        },
+        {
+          "name": "冠軍電視台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "新唐人亞太台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "八大優頻道",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "momo2台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "東森購物3台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "三立戲劇台",
+          "urls": [
+            "http://104.149.179.98:14002/1016"
+          ]
+        },
+        {
+          "name": "台灣戲劇台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "龍華戲劇",
+          "urls": [
+            "http://220.130.10.141:8513/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8"
+          ]
+        },
+        {
+          "name": "龍華偶像",
+          "urls": [
+            "http://220.130.10.141:8571/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8"
+          ]
+        },
+        {
+          "name": "龍華影劇",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "愛爾達影劇台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "靖天戲劇台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "靖洋戲劇台",
+          "urls": [
+            "http://104.149.179.98:14002/1023"
+          ]
+        },
+        {
+          "name": "EYETV戲劇台",
+          "urls": [
+            "http://104.149.179.98:14002/1012"
+          ]
+        },
+        {
+          "name": "東森購物2台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "WakuWaku Japan",
+          "urls": [
+            "http://218.32.45.104:4047/VideoInput/play.ts",
+            "http://50.7.74.29:8880/hlsok/j00201/index.m3u8",
+            "http://220.130.10.141:8572/http/123.51.149.60:8081/hls/61/803/ch03.m3u8",
+            "http://104.149.175.170:12002/1021"
+          ]
+        },
+        {
+          "name": "靖天日本台",
+          "urls": [
+            "http://104.149.179.98:15002/1003"
+          ]
+        },
+        {
+          "name": "曼迪日本台",
+          "urls": [
+            "http://104.149.178.58:15002/1009"
+          ]
+        },
+        {
+          "name": "MY101綜合台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "AnimaxHD",
+          "urls": [
+            "http://220.130.10.141:8564/http/60.250.87.135:8081/hls/70/812/ch39.m3u8",
+            "http://50.7.74.29:8880/hlsok/ph00309/index.m3u8"
+          ]
+        },
+        {
+          "name": "i-Fun動漫台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "tvN",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000023/index.m3u8",
+            "http://104.149.179.98:14002/1024"
+          ]
+        },
+        {
+          "name": "韓國娛樂台KMTV",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/t000024/index.m3u8"
+          ]
+        },
+        {
+          "name": "華藝MBC綜合台",
+          "urls": [
+            "http://104.149.178.58:15002/1010"
+          ]
+        },
+        {
+          "name": "星衛娛樂台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "ROCK Extreme",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "ROCK Entertainment",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "美好2台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "momo1台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "東森購物4台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "中視新聞台",
+          "urls": [
+            "http://218.32.45.104:5053/1.ts",
+            "http://50.7.74.29:8880/hlsok/ph00323/index.m3u8"
+          ]
+        },
+        {
+          "name": "寰宇新聞台",
+          "urls": [
+            "http://220.130.10.141:8569/http/116.50.42.19:8081/hls/76/818/ch62.m3u8"
+          ]
+        },
+        {
+          "name": "寰宇新聞台灣台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "台視新聞台",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/ph00324/index.m3u8"
+          ]
+        },
+        {
+          "name": "三立財經新聞台",
+          "urls": [
+            "http://104.149.175.170:14002/1000"
+          ]
+        },
+        {
+          "name": "華視新聞資訊台",
+          "urls": [
+            "http://50.7.74.29:8880/hlsok/ph00325/index.m3u8"
+          ]
+        },
+        {
+          "name": "壹電視新聞台",
+          "urls": [
+            "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
+            "http://220.130.10.141:8574/http/116.50.42.19:8081/hls/66/808/ch24.m3u8"
+          ]
+        },
+        {
+          "name": "民視新聞台",
+          "urls": [
+            "http://220.130.10.141:8563/http/123.51.149.60:8081/hls/73/815/ch51.m3u8"
+          ]
+        },
+        {
+          "name": "寰宇財經台",
+          "urls": [
+            "http://104.149.179.98:14002/1027"
+          ]
+        },
+        {
+          "name": "台視財經台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "美好1台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "東森購物5台",
+          "urls": [
+            "https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index_1.m3u8"
+          ]
+        },
+        {
+          "name": "CNN International",
+          "urls": [
+            "http://220.130.10.141:8546/http/116.50.42.19:8081/hls/68/810/ch29.m3u8",
+            "http://125.227.210.55:10797/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "BBC World News",
+          "urls": [
+            "http://125.227.210.55:10246/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "BloombergTV",
+          "urls": [
+            "http://220.130.10.141:8552/http/116.50.42.19:8067/hls/76/bloombergnews88.m3u8",
+            "http://125.227.210.55:18184/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "Channel News Asia頻道",
+          "urls": [
+            "https://raw.githubusercontent.com/qiu228/IPTV/YTlive/CNA.m3u8"
+          ]
+        },
+        {
+          "name": "CNBC Asia Channel",
+          "urls": [
+            "http://220.130.10.141:8551/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8",
+            "http://125.227.210.55:16415/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "Euronews",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "德國之聲電視台",
+          "urls": [
+            "http://125.227.210.55:8934/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "FRANCE 24 English",
+          "urls": [
+            "http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8"
+          ]
+        },
+        {
+          "name": "NHK新聞資訊台",
+          "urls": [
+            "http://125.227.210.55:8931/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "半島英語新聞台AlJazeeraEnglish",
+          "urls": [
+            "http://125.227.210.55:8938/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "視納華仁紀實台",
+          "urls": [
+            "http://104.149.178.58:15002/1011"
+          ]
+        },
+        {
+          "name": "影迷數位紀實台",
+          "urls": [
+            "http://104.149.178.58:15002/1012"
+          ]
+        },
+        {
+          "name": "美亞電影台",
+          "urls": [
+            "http://104.149.178.58:15002/1013"
+          ]
+        },
+        {
+          "name": "龍華電影",
+          "urls": [
+            "http://220.130.10.141:8575/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8"
+          ]
+        },
+        {
+          "name": "星衛HD電影台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "靖天映畫",
+          "urls": [
+            "http://104.149.179.98:15002/1001"
+          ]
+        },
+        {
+          "name": "靖天電影台",
+          "urls": [
+            "http://104.149.179.98:15002/1004"
+          ]
+        },
+        {
+          "name": "龍華洋片",
+          "urls": [
+            "http://104.149.179.98:15002/1006"
+          ]
+        },
+        {
+          "name": "Warner TV",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "Star Movies HD",
+          "urls": [
+            "http://218.32.45.104:1216/VideoInput/play.ts",
+            "http://125.227.210.55:18789/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "amc最愛電影",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "HITS",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "STAR World",
+          "urls": [
+            "http://218.32.45.104:4015/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "龍華經典",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "華藝影劇台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "CatchPlay電影台",
+          "urls": [
+            "http://104.149.179.98:14002/1021"
+          ]
+        },
+        {
+          "name": "Cinema World",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "壹電視電影台",
+          "urls": [
+            "http://218.32.45.104:6064/12.ts",
+            "http://104.149.178.58:15002/1019"
+          ]
+        },
+        {
+          "name": "采昌影劇台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "影迷數位電影台",
+          "urls": [
+            "http://104.149.178.58:15002/1014"
+          ]
+        },
+        {
+          "name": "My Cinema Europe HD我的歐洲電影台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "唯心電視台",
+          "urls": [
+            "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "佛衛電視慈悲台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "華藏衛視",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "生命電視台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "正德電視台",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "TV5MONDE",
+          "urls": [
+            "http://125.227.210.55:8937/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "ArirangTV",
+          "urls": [
+            "http://125.227.210.55:8933/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "DW(Deutsch)",
+          "urls": [
+            "http://125.227.210.55:8934/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "TFC(ABS-CBN)",
+          "urls": [
+            ""
+          ]
+        },
+        {
+          "name": "FRANCE24French",
+          "urls": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "group": "日本",
+      "channels": [
+        {
+          "name": "衛星劇場",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00001/index.m3u8"
+          ]
+        },
+        {
+          "name": "時代劇専門チャンネル",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00002/index.m3u8"
+          ]
+        },
+        {
+          "name": "日本映畫專門チャンネルHD",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00003/index.m3u8"
+          ]
+        },
+        {
+          "name": "日本テレビ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00004/index.m3u8"
+          ]
+        },
+        {
+          "name": "日テレG+",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00005/index.m3u8"
+          ]
+        },
+        {
+          "name": "関西テレビ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00006/index.m3u8"
+          ]
+        },
+        {
+          "name": "読売テレビ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00007/index.m3u8"
+          ]
+        },
+        {
+          "name": "東映チャンネル",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00008/index.m3u8"
+          ]
+        },
+        {
+          "name": "ホームドラマ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00009/index.m3u8"
+          ]
+        },
+        {
+          "name": "フジテレビ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00010/index.m3u8"
+          ]
+        },
+        {
+          "name": "ファミリー劇場",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00011/index.m3u8"
+          ]
+        },
+        {
+          "name": "テレビ東京",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00012/index.m3u8"
+          ]
+        },
+        {
+          "name": "テレビ大阪",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00013/index.m3u8"
+          ]
+        },
+        {
+          "name": "テレビ朝日",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00014/index.m3u8"
+          ]
+        },
+        {
+          "name": "ディズニーチャンネル",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00015/index.m3u8"
+          ]
+        },
+        {
+          "name": "ディズニージュニア",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00016/index.m3u8"
+          ]
+        },
+        {
+          "name": "スター・チャンネル3",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00017/index.m3u8"
+          ]
+        },
+        {
+          "name": "スター・チャンネル2",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00018/index.m3u8"
+          ]
+        },
+        {
+          "name": "スター・チャンネル1",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00019/index.m3u8"
+          ]
+        },
+        {
+          "name": "スカイ A sports",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00020/index.m3u8"
+          ]
+        },
+        {
+          "name": "サンテレビ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00021/index.m3u8"
+          ]
+        },
+        {
+          "name": "ゴルフネットワーク",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00022/index.m3u8"
+          ]
+        },
+        {
+          "name": "キッズステーションHD",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00023/index.m3u8"
+          ]
+        },
+        {
+          "name": "カートゥーンネットワーク",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00024/index.m3u8"
+          ]
+        },
+        {
+          "name": "アニマルプラネット",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00025/index.m3u8"
+          ]
+        },
+        {
+          "name": "アニマックス",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00026/index.m3u8"
+          ]
+        },
+        {
+          "name": "WOWOWライブ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00027/index.m3u8"
+          ]
+        },
+        {
+          "name": "WOWOWシネマ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00028/index.m3u8"
+          ]
+        },
+        {
+          "name": "WOWOWプライム",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00029/index.m3u8"
+          ]
+        },
+        {
+          "name": "Tokyo MX1",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00030/index.m3u8"
+          ]
+        },
+        {
+          "name": "TBSテレビ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00031/index.m3u8"
+          ]
+        },
+        {
+          "name": "NHK-G综合大阪",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00032/index.m3u8"
+          ]
+        },
+        {
+          "name": "NHK-G综合",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00033/index.m3u8"
+          ]
+        },
+        {
+          "name": "NHK-Eテレ大阪",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00034/index.m3u8"
+          ]
+        },
+        {
+          "name": "HKEテレ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00035/index.m3u8"
+          ]
+        },
+        {
+          "name": "NHK BSプレミアム",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00036/index.m3u8"
+          ]
+        },
+        {
+          "name": "NHK BS-1",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00037/index.m3u8"
+          ]
+        },
+        {
+          "name": "MBS毎日放送",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00038/index.m3u8"
+          ]
+        },
+        {
+          "name": "J SPORTS 4",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00039/index.m3u8"
+          ]
+        },
+        {
+          "name": "J SPORTS 3",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00040/index.m3u8"
+          ]
+        },
+        {
+          "name": "J SPORTS 2",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00041/index.m3u8"
+          ]
+        },
+        {
+          "name": "J SPORTS 1",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00042/index.m3u8"
+          ]
+        },
+        {
+          "name": "ＷＯＷＯＷプラス",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00043/index.m3u8"
+          ]
+        },
+        {
+          "name": "GREEN チャンネル",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00044/index.m3u8"
+          ]
+        },
+        {
+          "name": "ＧＡOＲＡ　ＨＤ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00045/index.m3u8"
+          ]
+        },
+        {
+          "name": "釣りビジョン",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00046/index.m3u8"
+          ]
+        },
+        {
+          "name": "BS日テレ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00047/index.m3u8"
+          ]
+        },
+        {
+          "name": "BS朝日",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00048/index.m3u8"
+          ]
+        },
+        {
+          "name": "BSフジ",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00049/index.m3u8"
+          ]
+        },
+        {
+          "name": "BS 東京",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00050/index.m3u8"
+          ]
+        },
+        {
+          "name": "BS-TBS",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00051/index.m3u8"
+          ]
+        },
+        {
+          "name": "AT-X HD",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00052/index.m3u8"
+          ]
+        },
+        {
+          "name": "ABC朝日放送",
+          "urls": [
+            "http://51.79.193.109:8080/hlsok/j00053/index.m3u8"
+          ]
+        },
+        {
+          "name": "女性チャンネル♪LaLa TV",
+          "urls": [
+            "http://104.149.178.58:12002/1023"
+          ]
+        },
+        {
+          "name": "ムービープラス",
+          "urls": [
+            "http://104.149.178.58:12002/1024"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "NewTV",
+      "channels": [
+        {
+          "name": "NewTV愛情喜劇",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"
+          ]
+        },
+        {
+          "name": "NewTV潮媽辣婆",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo"
+          ]
+        },
+        {
+          "name": "NewTV動作電影",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody"
+          ]
+        },
+        {
+          "name": "NewTV古裝劇場",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc"
+          ]
+        },
+        {
+          "name": "NewTV黑莓電競之夜",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
+          ]
+        },
+        {
+          "name": "NewTV黑莓電影",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
+          ]
+        },
+        {
+          "name": "NewTV黑莓動畫",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
+          ]
+        },
+        {
+          "name": "NewTV家庭劇場",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc"
+          ]
+        },
+        {
+          "name": "NewTV金牌綜藝",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx"
+          ]
+        },
+        {
+          "name": "NewTV精品大劇",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju"
+          ]
+        },
+        {
+          "name": "NewTV精品體育",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu"
+          ]
+        },
+        {
+          "name": "NewTV精品綜合",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp"
+          ]
+        },
+        {
+          "name": "NewTV軍旅劇場",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc"
+          ]
+        },
+        {
+          "name": "NewTV軍事評論",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl"
+          ]
+        },
+        {
+          "name": "NewTV農業致富",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf"
+          ]
+        },
+        {
+          "name": "NewTV熱播精選",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
+          ]
+        },
+        {
+          "name": "NewTV中國功夫",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json並發",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "Json輪詢",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name":"高清解析9",
+      "type":0,
+      "url":"http://60jx.com/?url="
+    },
+    {
+      "name": "藍光視頻",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    },
+    {
+      "name": "黃河影視",
+      "type": 1,
+      "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
+    },
+    {
+      "name": "Vip影院1",
+      "type": 1,
+      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="
+    },
+    {
+      "name": "VIP解析",
+      "url": "https://wds.ecsxs.com/217915.html?url="
+    },
+    {
+      "name": "公主影視",
+      "type": 1,
+      "url": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "name":"Json.VodJX",
+      "type":1,
+      "url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
+    },
+    {
+      "name":"高清解析1",
+      "type":0,
+      "url":"https://titan.mgtv.com.jumi.tv/player/?url="
+    },
+    {
+      "name":"高清解析2",
+      "type":0,
+      "url":"https://dmku.dijiaxia.com/?url="
+    },
+    {
+      "name":"高清解析3",
+      "type":0,
+      "url":"https://jx.ysgc.xyz/?url="
+    },
+    {
+      "name":"高清解析4",
+      "type":0,
+       "url":"http://egwang186.gitee.io/?url="
+    },
+    {
+      "name":"高清解析5",
+      "type":0,
+      "url":"https://jx.daidaitv.top:43810/?url="
+    },
+    {
+      "name":"高清解析6",
+      "type":0,
+      "url":"https://okjx.cc/?url="
+    },
+    {
+      "name":"高清解析7",
+      "type":0,
+      "url":"https://jx.ppflv.com/?url="
+    },
+    {
+      "name":"高清解析8",
+      "type":0,
+      "url":"http://an61.com/jx/vip?v="
+    },
+    {
+      "name": "極品影視",
+      "url": "https://jxapp.jpysvip.net/m3u8.php?url="
+    },
+    {
+      "name": "暮光影視",
+      "url": "https://www.mgtv.com.muguangys.com/jiexi1.php?url="
+    },
+    {
+      "name": "藍光秒開",
+      "url": "http://jiexi.xm1314.top/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili"
+  ],
+  "ijk": [
+    {
+      "group": "軟解碼",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "group": "硬解碼",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "cms.qdwght.com"
+  ],
+  "wallpaper": "https://raw.githubusercontent.com/jqiu1608/cat_tv/master/unnamed.jpg",
+  "spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider3.jar"
+}
