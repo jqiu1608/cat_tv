@@ -2824,9 +2824,9 @@
       "url": "Sequence"
     },
     {
-      "name": "藍光視頻",
+      "name": "靈狐影視",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url="
     },
     {
       "name": "黃河影視",
@@ -2837,16 +2837,6 @@
       "name": "Vip影院1",
       "type": 1,
       "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="
-    },
-    {
-      "name": "靈狐影視",
-      "type": 1,
-      "url": "https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url="
-    },
-    {
-      "name": "黃河影視",
-      "type": 1,
-      "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
     },
     {
       "name": "parwix",
@@ -2947,6 +2937,11 @@
       "name": "優視影視",
       "type": 1,
       "url": "http://ccc.ysys.asia/jx/?id=2&url="
+    },
+    {
+      "name": "黃河影視",
+      "type": 1,
+      "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
     },
     {
       "name": "(無名)1",
@@ -3057,63 +3052,6 @@
       "name": "雪人影視",
       "type": 1,
       "url": "https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url="
-    },
-    {
-      "name":"高清解析1",
-      "type":0,
-      "url":"https://titan.mgtv.com.jumi.tv/player/?url="
-    },
-    {
-      "name":"高清解析2",
-      "type":0,
-      "url":"https://dmku.dijiaxia.com/?url="
-    },
-    {
-      "name":"高清解析3",
-      "type":0,
-      "url":"https://jx.ysgc.xyz/?url="
-    },
-    {
-      "name":"高清解析4",
-      "type":0,
-       "url":"http://egwang186.gitee.io/?url="
-    },
-    {
-      "name":"高清解析5",
-      "type":0,
-      "url":"https://jx.daidaitv.top:43810/?url="
-    },
-    {
-      "name":"高清解析6",
-      "type":0,
-      "url":"https://okjx.cc/?url="
-    },
-    {
-      "name":"高清解析7",
-      "type":0,
-      "url":"https://jx.ppflv.com/?url="
-    },
-    {
-      "name":"高清解析8",
-      "type":0,
-      "url":"http://an61.com/jx/vip?v="
-    },
-    {
-      "name":"高清解析9",
-      "type":0,
-      "url":"http://60jx.com/?url="
-    },    
-    {
-      "name": "極品影視",
-      "url": "https://jxapp.jpysvip.net/m3u8.php?url="
-    },
-    {
-      "name": "暮光影視",
-      "url": "https://www.mgtv.com.muguangys.com/jiexi1.php?url="
-    },
-    {
-      "name": "藍光秒開",
-      "url": "http://jiexi.xm1314.top/?url="
     }
   ],
   "flags": [
