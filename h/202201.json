@@ -2850,11 +2850,6 @@
       "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
     },
     {
-      "name": "Vip影院1",
-      "type": 1,
-      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="
-    },
-    {
       "name": "parwix",
       "type": 0,
       "url": "https://jx.parwix.com:4433/player/?url="
@@ -3064,7 +3059,6 @@
       "type": 1,
       "url": "https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url="
     }
-    ],
     {
       "name":"高清解析1",
       "type":0,
