@@ -2,58 +2,61 @@
   "sites": [
     {
       "key": "暢視影視",
-      "name": "首頁2022年1月10日精簡接口 如果資源不可用，請切換「首頁數據源」或切換網絡",
+      "name": "首頁2022年1月13日精簡接口 如果資源不可用，請切換「首頁數據源」或切換網絡",
       "type": 1,
       "api": "http://app.reboju.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "愛奇藝VIP(官源)",
-      "name": "愛奇藝VIP(官源)     ",
+	    {
+      "key": "優酷視頻會員(官源)",
+      "name": "優酷視頻會員(官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "騰訊視頻VIP(官源)",
-      "name": "騰訊視頻VIP（官源)     ",
+      "key": "愛奇藝會員(官源)",
+      "name": "愛奇藝會員(官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "芒果TV VIP(官源)",
-      "name": "芒果TV VIP(官源)     ",
+      "key": "騰訊視頻(官源)",
+      "name": "騰訊視頻（官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "搜狐視頻VIP(官源)",
-      "name": "搜狐視頻VIP(官源)     ",
+      "key": "芒果TV會員(官源)",
+      "name": "芒果TV會員(官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "優酷視頻VIP(官源)",
-      "name": "優酷視頻VIP(官源)     ",
+      "key": "搜狐視頻會員(官源)",
+      "name": "搜狐視頻會員(官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/sohu/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
+
+	
+
     {
       "key": "csp_appys_xiaogui_555電影",
       "name": "555電影(M)",
