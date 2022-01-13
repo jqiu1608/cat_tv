@@ -10,46 +10,46 @@
       "filterable": 0
     },
     {
-      "key": "愛奇藝VIP(官源)",
-      "name": "愛奇藝VIP(官源)     ",
+      "key": "優酷視頻會員(官源)",
+      "name": "優酷視頻會員(官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "騰訊視頻VIP(官源)",
-      "name": "騰訊視頻VIP（官源)     ",
+      "key": "愛奇藝會員(官源)",
+      "name": "愛奇藝會員(官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "芒果TV VIP(官源)",
-      "name": "芒果TV VIP(官源)     ",
+      "key": "騰訊視頻(官源)",
+      "name": "騰訊視頻（官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "搜狐視頻VIP(官源)",
-      "name": "搜狐視頻VIP(官源)     ",
+      "key": "芒果TV會員(官源)",
+      "name": "芒果TV會員(官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "優酷視頻VIP(官源)",
-      "name": "優酷視頻VIP(官源)     ",
+      "key": "搜狐視頻會員(官源)",
+      "name": "搜狐視頻會員(官源)     ",
       "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/",
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/sohu/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
