@@ -3323,11 +3323,6 @@
       "url": "https://json.hfyrw.com/mao.go?url="
     },
     {
-      "name": "藍光視頻",
-      "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
-    },
-    {
       "name": "4K影院1",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
@@ -3497,7 +3492,55 @@
       "type": 1,
       "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="
     },
-
+    {
+      "name":"高清解析1",
+      "type":0,
+      "url":"https://titan.mgtv.com.jumi.tv/player/?url="
+    },
+    {
+      "name":"高清解析2",
+      "type":0,
+      "url":"https://dmku.dijiaxia.com/?url="
+    },
+    {
+      "name":"高清解析3",
+      "type":0,
+      "url":"https://jx.ysgc.xyz/?url="
+    },
+    {
+      "name":"高清解析4",
+      "type":0,
+       "url":"http://egwang186.gitee.io/?url="
+    },
+    {
+      "name":"高清解析5",
+      "type":0,
+      "url":"https://jx.daidaitv.top:43810/?url="
+    },
+    {
+      "name":"高清解析6",
+      "type":0,
+      "url":"https://okjx.cc/?url="
+    },
+    {
+      "name":"高清解析7",
+      "type":0,
+      "url":"https://jx.ppflv.com/?url="
+    },
+    {
+      "name":"高清解析8",
+      "type":0,
+      "url":"http://an61.com/jx/vip?v="
+    },
+    {
+      "name":"高清解析9",
+      "type":0,
+      "url":"http://60jx.com/?url="
+    },
+    {
+      "name": "極品影視",
+      "url": "https://jxapp.jpysvip.net/m3u8.php?url="
+    },
     {
       "name": "公主影視",
       "type": 1,
