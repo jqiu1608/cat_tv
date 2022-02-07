@@ -382,8 +382,17 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
-},
-{
+  },
+  {
+    "key": "csp_xpath_olevod",
+    "name": "歐樂影院(XPath for exo)",
+    "type": 3,"api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/jsons/olevod.json"
+  },
+  {
     "key": "csp_xpath_jpys",
     "name": "極品影視(XPath)",
     "type": 3,
@@ -392,8 +401,8 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
-},
-{
+  },
+  {
     "key": "csp_xpath_age",
     "name": "AGE動漫(XPath)",
     "type": 3,
@@ -402,8 +411,8 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
-},
-{
+  },
+  {
     "key": "csp_xpath_jpyszl",
     "name": "極品直鏈(XPath)",
     "type": 3,
@@ -412,8 +421,8 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
-},
-{
+  },
+  {
     "key": "csp_xpath_nfmov",
     "name": "NFMovies(XPath)",
     "type": 3,
@@ -422,8 +431,8 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
-},
-{
+  },
+  {
     "key": "csp_xpath_tvci",
     "name": "大師兄(XPath)",
     "type": 3,
@@ -432,8 +441,8 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
-},
-{
+  },
+  {
     "key": "csp_xpath_duboku",
     "name": "獨播庫(XPath)",
     "type": 3,
@@ -442,8 +451,8 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
-},
-{
+  },
+  {
      "key": "csp_xpath_saohuotv",
      "name": "騷火電影(XPath)",
      "type": 3,
@@ -452,8 +461,8 @@
      "quickSearch": 1,
      "filterable": 0,
      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
-},
-{
+  },
+  {
      "key": "csp_xpath_dm84",
      "name": "動漫巴士(XPath)",
      "type": 3,
@@ -462,8 +471,8 @@
      "quickSearch": 1,
      "filterable": 0,
      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
-},
-{
+  },
+  {
     "key": "csp_xpath_egg",
     "name": "蛋蛋影院(XPath)",
     "type": 3,
@@ -472,8 +481,8 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
-},
-{
+  },
+  {
     "key": "csp_yysdali",
     "name": "YYDS影視(XPath)",
     "type": 3,
@@ -482,8 +491,8 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
-},
-{
+  },
+  {
      "key": "csp_xpath_555",
      "name": "555電影(XPath)",
      "type": 3,
@@ -492,8 +501,8 @@
      "quickSearch": 1,
      "filterable": 0,
      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json"
-},
-{
+  },
+  {
      "key": "csp_xpath_sky4k",
      "name": "天空4K(XPath)",
      "type": 3,
@@ -502,8 +511,8 @@
      "quickSearch": 1,
      "filterable": 0,
      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/sky4k.json"
-},
-{
+  },
+  {
      "key": "csp_xpath_4kyu",
      "name": "一隻魚4K(XPath)",
      "type": 3,
@@ -512,8 +521,8 @@
      "quickSearch": 1,
      "filterable": 0,
      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/4kyu.json"
-},
-{
+  },
+  {
      "key":"csp_xpath_miniku",
      "name":"Miniku(XPath)",
      "type":3,
@@ -522,8 +531,8 @@
      "quickSearch":1,
      "filterable": 0,
      "ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/miniku.json"
-},
-{
+  },
+  {
      "key":"csp_xpath_pianba",
      "name":"Pianba(XPath)",
      "type":3,
@@ -532,7 +541,7 @@
      "quickSearch":1,
      "filterable": 0,
      "ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/pianba.json"
-},
+  },
 
 {"key":"csp_appys_xiaogui_007影視", "name":"007影視(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影視"},
 {"key":"csp_appys_xiaogui_555電影", "name":"555電影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_555電影"},
